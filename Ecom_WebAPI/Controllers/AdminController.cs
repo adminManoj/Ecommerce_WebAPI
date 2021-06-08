@@ -8,7 +8,7 @@ namespace Ecom_WebAPI.Controllers
 {
     public class AdminController : Controller
     {
-        // GET: Admin
+        // GET: Admin Panel
         public ActionResult Login()
         {
             return View();
